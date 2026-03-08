@@ -44,3 +44,8 @@ https://github.com/user-attachments/assets/837d0017-61da-489e-8113-45b32a5f5769
 
 ## Conclusion
 Ce système de disponibilité des salles montre une implémentation claire de la gestion des entités, des services et des réservations en utilisant JPA et Hibernate dans un contexte Java. Il constitue un bon exemple pour apprendre la persistance des données et structurer une application backend.
+
+ ---
+
+## Auteur
+Ilyass OUBABA
